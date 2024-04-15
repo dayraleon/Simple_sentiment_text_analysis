@@ -10,9 +10,9 @@ Simple sentiment text analysis means looking at a piece of writing to figure out
 
 ### Installing
 
-* install nltk
-* install textblob
-* install newspaper 3k
+* Install nltk
+* Install textblob
+* Install newspaper 3k
 
 
 ### Executing program
